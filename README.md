@@ -34,8 +34,3 @@ Built with Java, Spring Boot, PostgreSQL, and Redis for scalability and resilien
 - **Infrastructure:** Docker Compose
 
 ---
-
-## 📂 Project Structure
-
-
-In application repositories add your own generated api key
